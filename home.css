@@ -1,0 +1,12 @@
+* {
+ font-family: 'Comic Neue', cursive;
+ font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+        background-color: aqua;
+}
+
+.st {
+        width: 550px;
+}
